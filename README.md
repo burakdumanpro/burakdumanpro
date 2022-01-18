@@ -3,6 +3,7 @@
 
 - :telescope: I’m working on frontend and mobile app development (JavaScript | React | Typescript)
 - :seedling: I’m learning backend development (MongoDB | Django)
+- 
 ## :man::woman: Social
 
 
@@ -10,6 +11,7 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:burakduman.pro@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakdumanpro" alt="burakdumanpro" /> </p>
+
 ## :computer: Frontend
 
 
@@ -22,6 +24,7 @@
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://avatars.mds.yandex.net/i?id=1b3ca3ad9d737703f03e2f970cc09069-4507542-images-thumbs&n=13" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
+
 ## :computer: Backend
 
 
@@ -31,6 +34,7 @@
 <a href="#" target="_blank"> <img src="https://miro.medium.com/max/900/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="spring-boot" width="90"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2" alt="express" height="50" /> </a>
+
 ## :gear: Tools
 
 
