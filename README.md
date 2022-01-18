@@ -3,7 +3,7 @@
 
 - :telescope: I’m working on frontend and mobile app development (JavaScript | React | Typescript)
 - :seedling: I’m learning backend development (MongoDB | Django)
-- 
+ 
 ## :man::woman: Social
 
 
